@@ -1,5 +1,5 @@
 {
-  "name": "vue-dadata",
+  "name": "vue-dadata-letovo",
   "version": "1.4.10",
   "description": "Vue component for hinting addresses using dadata.ru",
   "main": "dist/vuedadatacomponent.umd.js",
@@ -7,7 +7,7 @@
   "unpkg": "dist/vuedadatacomponent.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ikloster03/vue-dadata.git"
+    "url": "git+https://github.com/kireevRoman/vue-dadata-letovo.git"
   },
   "keywords": [
     "vue",
@@ -17,23 +17,20 @@
     "suggestion"
   ],
   "author": {
-    "name": "Ivan Monastyrev",
-    "email": "ikloster@yandex.ru",
-    "url": "https://ikloster.ru"
+    "name": "Kireev Roman",
+    "email": "romasssr@yandex.ru",
+    "url": "https://kireevRoman"
   },
   "contributors": [
     {
-      "name": "Valery Roshett"
-    },
-    {
-      "name": "Ilya Kiselev"
+      "name": "Kireev Roman"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ikloster03/vue-dadata/issues"
+    "url": "https://github.com/kireevRoman/vue-dadata-letovo/issues"
   },
-  "homepage": "https://github.com/ikloster03/vue-dadata#readme",
+  "homepage": "https://github.com/kireevRoman/vue-dadata-letovo#readme",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
